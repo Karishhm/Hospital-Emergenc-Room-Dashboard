@@ -1,1 +1,1 @@
-# Hotel-Emergency-Room-Dashboard
+# Hospital-Emergency-Room-Dashboard
